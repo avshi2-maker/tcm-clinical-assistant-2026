@@ -1,0 +1,86 @@
+id,function_name,version,function_code,description,language,created_at,is_active,is_deployed,backup_notes
+1,unified_search_all_assets,v1.0.0,"
+CREATE OR REPLACE FUNCTION unified_search_all_assets(
+    p_query TEXT,
+    p_limit INTEGER DEFAULT 20
+)
+RETURNS TABLE (
+    result_id BIGINT,
+    source_table TEXT,
+    source_id TEXT,
+    asset_type TEXT,
+    category TEXT,
+    title_hebrew TEXT,
+    content_hebrew TEXT,
+    description_hebrew TEXT,
+    acupoints TEXT[],
+    match_score REAL,
+    match_type TEXT
+) AS $FUNC$
+DECLARE
+    clean_query TEXT;
+    query_words TEXT[];
+BEGIN
+    clean_query := regexp_replace(p_query, '^[במלהכש]+', '', 'g');
+    clean_query := trim(clean_query);
+    query_words := string_to_array(clean_query, ' ');
+    
+    RETURN QUERY
+    WITH ranked_results AS (
+        SELECT 
+            t.id,
+            t.source_table,
+            t.source_id,
+            t.asset_type,
+            t.category,
+            t.title_hebrew,
+            t.content_hebrew,
+            t.description_hebrew,
+            t.acupoints,
+            (CASE
+                WHEN t.content_hebrew ILIKE '%' || p_query || '%' OR t.title_hebrew ILIKE '%' || p_query || '%' THEN 1.0
+                WHEN t.keywords && query_words THEN 0.9
+                WHEN t.search_vector @@ to_tsquery('simple', clean_query) THEN 
+                    0.5 + (ts_rank(t.search_vector, to_tsquery('simple', clean_query)) * 0.4)
+                ELSE 
+                    GREATEST(
+                        similarity(t.content_hebrew, p_query),
+                        similarity(t.title_hebrew, p_query)
+                    ) * 0.8
+            END)::real AS score,
+            CASE
+                WHEN t.content_hebrew ILIKE '%' || p_query || '%' OR t.title_hebrew ILIKE '%' || p_query || '%' THEN 'exact_match'
+                WHEN t.keywords && query_words THEN 'keyword_match'
+                WHEN t.search_vector @@ to_tsquery('simple', clean_query) THEN 'fulltext_match'
+                ELSE 'fuzzy_match'
+            END AS match_type
+        FROM api_rag_unified_search_30jan2026 t
+        WHERE 
+            (
+                t.content_hebrew ILIKE '%' || p_query || '%' OR
+                t.title_hebrew ILIKE '%' || p_query || '%' OR
+                t.keywords && query_words OR
+                t.search_vector @@ to_tsquery('simple', clean_query) OR
+                similarity(t.content_hebrew, p_query) > 0.1 OR
+                similarity(t.title_hebrew, p_query) > 0.1
+            )
+    )
+    SELECT 
+        r.id,
+        r.source_table,
+        r.source_id,
+        r.asset_type,
+        r.category,
+        r.title_hebrew,
+        r.content_hebrew,
+        r.description_hebrew,
+        r.acupoints,
+        r.score,
+        r.match_type
+    FROM ranked_results r
+    WHERE r.score > 0.15
+    ORDER BY r.score DESC, r.id ASC
+    LIMIT p_limit;
+END;
+$FUNC$ LANGUAGE plpgsql STABLE;
+    ","Unified search across all 4,429 assets. Fixed type casting.",plpgsql,2026-01-30 14:03:25.382611+00,true,true,"Fixed version - January 30, 2026"

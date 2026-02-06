@@ -1,0 +1,467 @@
+id,body_figure_id,body_part,acupoint_code,meridian,point_name_eng,created_at
+1,1,head,GB 31,Small Intestine,City of Wind,2026-01-25 15:50:43.908174
+2,1,head,GB 32,Small Intestine,Central River,2026-01-25 15:50:43.908174
+3,1,head,GB1,Small Intestine,Orifice of the Pupil,2026-01-25 15:50:43.908174
+4,1,head,GB2,Small Intestine,Meeting of Hearing,2026-01-25 15:50:43.908174
+5,1,head,GB3,Small Intestine,Guest and Host Upper Joint,2026-01-25 15:50:43.908174
+6,4,arm,Lu 2,LUNG,Cloud Door,2026-01-25 15:51:49.788613
+7,4,arm,Lu 3,LUNG,Celestial Palace,2026-01-25 15:51:49.788613
+8,4,arm,Lu 4,LUNG,Guarding White,2026-01-25 15:51:49.788613
+9,4,arm,Lu 5,LUNG,Cubit/Foot Marsh,2026-01-25 15:51:49.788613
+10,4,arm,Lu 6,LUNG,Supreme Hole,2026-01-25 15:51:49.788613
+11,4,arm,Lu 7,LUNG,Broken Sequence,2026-01-25 15:51:49.788613
+12,2,hand,Pc7,Bladder,Water,2026-01-25 15:51:49.788613
+13,2,general,Th2,Bladder,Water,2026-01-25 15:51:49.788613
+14,1,head,Gb43,Bladder,Earth,2026-01-25 15:51:49.788613
+15,4,arm,Lu 8,LUNG,Across the Ditch,2026-01-25 15:51:49.788613
+16,4,arm,Lu 9,LUNG,Great Abyss,2026-01-25 15:51:49.788613
+17,4,arm,Lu 10,LUNG,Fish Region,2026-01-25 15:51:49.788613
+18,4,arm,Lu 11,LUNG,Young/Lesser Merchant,2026-01-25 15:51:49.788613
+19,8,general,Co 1,LUNG,Merchant of Yang,2026-01-25 15:51:49.788613
+20,3,leg,St 15,LUNG,House Roof,2026-01-25 15:51:49.788613
+21,2,hand,Liv3,Bladder,,2026-01-25 15:51:49.788613
+22,8,general,Co 2,LUNG,Second Space,2026-01-25 15:51:49.788613
+23,8,general,Co 3,LUNG,Third Space,2026-01-25 15:51:49.788613
+24,8,general,Co 4,LUNG,Joining of the Valleys,2026-01-25 15:51:49.788613
+25,8,general,Co 5,LUNG,Valley of Yang,2026-01-25 15:51:49.788613
+26,8,general,Co 6,LUNG,Inclined Passage,2026-01-25 15:51:49.788613
+27,8,general,Co 7,LUNG,Warm Current,2026-01-25 15:51:49.788613
+28,8,general,Co 8,LUNG,Inferior Region,2026-01-25 15:51:49.788613
+29,8,general,Co 9,LUNG,Upper Region,2026-01-25 15:51:49.788613
+30,8,general,Co 10,LUNG,Arm Three Li,2026-01-25 15:51:49.788613
+31,8,general,Co 11,LUNG,Pool At The Bend,2026-01-25 15:51:49.788613
+32,8,general,Co 12,LUNG,Elbow Bone,2026-01-25 15:51:49.788613
+33,8,general,CO 13,LUNG,Arm Five Li,2026-01-25 15:51:49.788613
+34,8,general,Co 14,LUNG,Upper Arm,2026-01-25 15:51:49.788613
+35,8,general,Co 15,LUNG,shoulder bone,2026-01-25 15:51:49.788613
+36,8,general,Co 16,LUNG,Large Bone,2026-01-25 15:51:49.788613
+37,8,general,Co 17,LUNG,Celestial Vessel,2026-01-25 15:51:49.788613
+38,8,general,Co 18,LUNG,Support and Rush,2026-01-25 15:51:49.788613
+39,8,general,Co 19,LUNG,Grain Bone,2026-01-25 15:51:49.788613
+40,8,general,Co 20,LUNG,Welcome Fragrance,2026-01-25 15:51:49.788613
+41,3,leg,St 1,LUNG,Tear Container,2026-01-25 15:51:49.788613
+42,3,leg,St 2,LUNG,Four Whites,2026-01-25 15:51:49.788613
+43,3,leg,St 3,LUNG,Great Bone Hole,2026-01-25 15:51:49.788613
+44,3,leg,St 4,LUNG,Earth Silow,2026-01-25 15:51:49.788613
+45,3,leg,St 5,LUNG,Big Welcome,2026-01-25 15:51:49.788613
+46,7,back,Bl 14,Small Intestine,厥陰俞,2026-01-25 15:51:49.788613
+47,3,leg,St 6,LUNG,Jaw Region,2026-01-25 15:51:49.788613
+48,3,leg,St 7,LUNG,Lower Joint,2026-01-25 15:51:49.788613
+49,3,leg,St 8,LUNG,Head Corner,2026-01-25 15:51:49.788613
+50,3,leg,St 9,LUNG,Mans Welcome,2026-01-25 15:51:49.788613
+51,3,leg,St 10,LUNG,Water Rushing,2026-01-25 15:51:49.788613
+52,3,leg,St 11,LUNG,Qi Residence,2026-01-25 15:51:49.788613
+53,3,leg,ST11 – house,LUNG,ST14 – storage place,2026-01-25 15:51:49.788613
+54,3,leg,ST15 – roof,LUNG,"The breath passes the area of ST11, located next to the Trachea",2026-01-25 15:51:49.788613
+55,3,leg,St 12,LUNG,Empty Bowl,2026-01-25 15:51:49.788613
+56,3,leg,ST30- SP10- ST36,LUNG,SECONDARY FUNCTIONS,2026-01-25 15:51:49.788613
+57,3,leg,St 13,LUNG,Entrance of CHI,2026-01-25 15:51:49.788613
+58,3,leg,St 14,LUNG,Store House,2026-01-25 15:51:49.788613
+59,3,leg,St 16,LUNG,Breast Window,2026-01-25 15:51:49.788613
+60,3,leg,St 17,LUNG,Breast Center,2026-01-25 15:51:49.788613
+61,3,leg,St 18,LUNG,Breast Root,2026-01-25 15:51:49.788613
+62,3,leg,St 19,LUNG,Can Not Contain,2026-01-25 15:51:49.788613
+63,3,leg,St 20,LUNG,Receiving Fullness,2026-01-25 15:51:49.788613
+64,3,leg,St 21,LUNG,Beam Door,2026-01-25 15:51:49.788613
+65,3,leg,St 22,LUNG,Lower Gate,2026-01-25 15:51:49.788613
+66,3,leg,St 23,LUNG,Supreme Unity,2026-01-25 15:51:49.788613
+67,3,leg,St 24,LUNG,Slippery Meat Door,2026-01-25 15:51:49.788613
+68,3,leg,St 33,LUNG,Market of Yin,2026-01-25 15:51:49.788613
+69,3,leg,St 25,LUNG,Celestial Pivot,2026-01-25 15:51:49.788613
+70,3,leg,St 26,LUNG,Outside Mound,2026-01-25 15:51:49.788613
+71,3,leg,St 27,LUNG,Big Great,2026-01-25 15:51:49.788613
+72,3,leg,St 28,LUNG,Water Path,2026-01-25 15:51:49.788613
+73,3,leg,St 29,LUNG,The Return,2026-01-25 15:51:49.788613
+74,3,leg,St 30,LUNG,Surging Qi,2026-01-25 15:51:49.788613
+75,3,leg,ST36 is the lower sea point),LUNG,3. Important point on the Chong,2026-01-25 15:51:49.788613
+76,3,leg,St 31,LUNG,Thigh Gate,2026-01-25 15:51:49.788613
+77,3,leg,St 32,LUNG,Prostrate Hare,2026-01-25 15:51:49.788613
+78,3,leg,St 34,LUNG,Beam Mound,2026-01-25 15:51:49.788613
+79,3,leg,St 35,LUNG,Calf’s Nose,2026-01-25 15:51:49.788613
+80,3,leg,St 36,LUNG,Leg Three Li,2026-01-25 15:51:49.788613
+81,3,leg,"ST36 regulates 3 things; ST, SP and KID. Some sources say the upper, middle and lower heaters.",LUNG,LOCATION,2026-01-25 15:51:49.788613
+82,3,leg,St 37,LUNG,Upper Great Void,2026-01-25 15:51:49.788613
+83,3,leg,St 38,LUNG,Long Narrow Opening,2026-01-25 15:51:49.788613
+84,3,leg,ST38 is located between the lower sea points of the CO and SI. This point is likened to the small opening between these 2 organs,LUNG,"8 cun under the tibio – femoral joint line, 1 fingerbreadth from the tibia, halfway between the tibio – femoral joint line and the external malleolus",2026-01-25 15:51:49.788613
+85,3,leg,St 39,LUNG,Lower Great Void,2026-01-25 15:51:49.788613
+86,3,leg,St 40,LUNG,Prosperous Abundance,2026-01-25 15:51:49.788613
+87,3,leg,"ST40 is located at the center of the shin. As a stomach point it has earth CHI, which is the element, associated with the center. As a Lou point it has abundant earth CHI",LUNG,"8 cun under the knee crease, 2 fingerbreadths from the tip of the tibia",2026-01-25 15:51:49.788613
+88,7,back,Bl 32,Small Intestine,Second Bone Hole,2026-01-25 15:51:49.788613
+89,3,leg,St 41,LUNG,Dividing Valley,2026-01-25 15:51:49.788613
+90,3,leg,St 42,LUNG,Rushing Yang,2026-01-25 15:51:49.788613
+91,3,leg,St 43,LUNG,Sunken Valley,2026-01-25 15:51:49.788613
+92,3,leg,St 44,LUNG,Inner Court Yard,2026-01-25 15:51:49.788613
+93,3,leg,St 45,LUNG,Running Point,2026-01-25 15:51:49.788613
+94,3,leg,Sp 1,LUNG,Hidden White,2026-01-25 15:51:49.788613
+95,3,leg,Sp 7,LUNG,Leaking Valley,2026-01-25 15:51:49.788613
+96,7,back,Bl 33,Small Intestine,Middle Bone Hole,2026-01-25 15:51:49.788613
+97,3,leg,Sp 2,LUNG,Big Capital/Pool,2026-01-25 15:51:49.788613
+98,3,leg,Sp 3,LUNG,Supreme Whiteness,2026-01-25 15:51:49.788613
+99,3,leg,Sp 4,LUNG,Grandfather Grandson,2026-01-25 15:51:49.788613
+100,3,leg,Sp 5,LUNG,Merchant Mound,2026-01-25 15:51:49.788613
+101,3,leg,Sp 6,LUNG,3 Yin Crossing,2026-01-25 15:51:49.788613
+102,7,back,Bl 34,Small Intestine,Lower Bone Hole,2026-01-25 15:51:49.788613
+103,3,leg,Sp 8,LUNG,Earth Pivot,2026-01-25 15:51:49.788613
+104,3,leg,Sp 9,LUNG,Yin Mound Spring,2026-01-25 15:51:49.788613
+105,3,leg,Sp 10,LUNG,Sea of Blood,2026-01-25 15:51:49.788613
+106,3,leg,Sp 11,LUNG,Screen Door,2026-01-25 15:51:49.788613
+107,3,leg,Sp 12,LUNG,Rushing Door,2026-01-25 15:51:49.788613
+108,3,leg,Sp 13,LUNG,Bowel Residence,2026-01-25 15:51:49.788613
+109,3,leg,Sp 14,LUNG,abdominal knot,2026-01-25 15:51:49.788613
+110,3,leg,Sp 15,LUNG,Big Horizontal,2026-01-25 15:51:49.788613
+111,3,leg,"ST25, SP15,",LUNG,4 cun lateral to the naval (CV8),2026-01-25 15:51:49.788613
+112,3,leg,Sp 16,LUNG,Abdomens Sorrow,2026-01-25 15:51:49.788613
+113,3,leg,SP 17,LUNG,Food Recipient,2026-01-25 15:51:49.788613
+114,3,leg,SP 18,LUNG,Heavenly Valley,2026-01-25 15:51:49.788613
+115,3,leg,SP 19,LUNG,Chest Village,2026-01-25 15:51:49.788613
+116,3,leg,SP 20,LUNG,Encircling Glory,2026-01-25 15:51:49.788613
+117,3,leg,SP 21,LUNG,Big Wrapping,2026-01-25 15:51:49.788613
+118,2,hand,Ht 1,Heart,Extreme Fountain,2026-01-25 15:51:49.788613
+119,2,hand,Ht 2,Heart,Blue Green Spirit,2026-01-25 15:51:49.788613
+120,2,hand,Ht 3,Heart,Lesser Sea,2026-01-25 15:51:49.788613
+121,2,hand,Ht 4,Heart,Spirit Path,2026-01-25 15:51:49.788613
+122,2,hand,Ht 5,Heart,Communication With Interior,2026-01-25 15:51:49.788613
+123,2,hand,Ht 6,Heart,Yin Accumulation,2026-01-25 15:51:49.788613
+124,2,hand,HT6 is the Xi - cleft point of heart. Yin is a reference to the Shao Yin,Heart,"Radial to the flexor carpi ulnaris, 0.5 cun from the wrist crease",2026-01-25 15:51:49.788613
+125,2,hand,HT6 dispersed + HT9 dispersed for epilepsy from wood disturbing heart.,Heart,SHEN MEN,2026-01-25 15:51:49.788613
+126,2,hand,Ht 8,Heart,Small Mansion,2026-01-25 15:51:49.788613
+127,2,hand,Ht 9,Heart,Lesser Rushing,2026-01-25 15:51:49.788613
+128,2,general,Si 1,Small Intestine,Lesser Marsh,2026-01-25 15:51:49.788613
+129,2,general,Si 2,Small Intestine,Anterior Valley,2026-01-25 15:51:49.788613
+130,2,general,Si 3,Small Intestine,Posterior Valley,2026-01-25 15:51:49.788613
+131,2,general,Si 4,Small Intestine,Wrist Bone,2026-01-25 15:51:49.788613
+132,2,general,Si 5,Small Intestine,Yang Valley,2026-01-25 15:51:49.788613
+133,2,general,Si 6,Small Intestine,Inner Vision,2026-01-25 15:51:49.788613
+134,2,general,Si 7,Small Intestine,Branch to the Correct,2026-01-25 15:51:49.788613
+135,7,back,Bl 6,Small Intestine,Receiving Light,2026-01-25 15:51:49.788613
+136,2,general,Si 8,Small Intestine,Lesser Sea,2026-01-25 15:51:49.788613
+137,2,general,Si 9,Small Intestine,Shoulder Strength,2026-01-25 15:51:49.788613
+138,2,general,Si 10,Small Intestine,Scapula Shu,2026-01-25 15:51:49.788613
+139,2,general,Si 11,Small Intestine,Heavenly Ancestor,2026-01-25 15:51:49.788613
+140,2,general,SI11 and HT have a direct connection. This point is located near he Shu point of HT. The heavens are above and the heart is known as the organ that rules from above. Both the heavens and the heart have functions of higher/celestial power.,Small Intestine,SI11 is a point where CHI accumulates.,2026-01-25 15:51:49.788613
+141,2,general,Si 12,Small Intestine,Grasping the Wind,2026-01-25 15:51:49.788613
+142,2,general,Si 13,Small Intestine,Crooked Wall,2026-01-25 15:51:49.788613
+143,2,general,Si 14,Small Intestine,Outer Shoulder Shu,2026-01-25 15:51:49.788613
+144,2,general,Si 15,Small Intestine,Middle Shoulder Shu,2026-01-25 15:51:49.788613
+145,2,general,Si 16,Small Intestine,Celestial Window,2026-01-25 15:51:49.788613
+146,2,general,Si 17,Small Intestine,Celestial Form,2026-01-25 15:51:49.788613
+147,2,general,Si 18,Small Intestine,Cheek Bone,2026-01-25 15:51:49.788613
+148,2,general,Si 19,Small Intestine,Listening Place,2026-01-25 15:51:49.788613
+149,7,back,Bl 1,Small Intestine,Bright Eyes,2026-01-25 15:51:49.788613
+150,7,back,Bl  2,Small Intestine,Bamboo Gathering,2026-01-25 15:51:49.788613
+151,7,back,Bl 3,Small Intestine,Eyebrows Ascension,2026-01-25 15:51:49.788613
+152,7,back,Bl 4,Small Intestine,Crooked Curve,2026-01-25 15:51:49.788613
+153,7,back,Bl  5,Small Intestine,Five Regions,2026-01-25 15:51:49.788613
+154,2,general,The 5th point on the BL meridian,Small Intestine,LOCATION,2026-01-25 15:51:49.788613
+155,7,back,Bl 7,Small Intestine,Celestial Connection,2026-01-25 15:51:49.788613
+156,7,back,Bl 8,Small Intestine,Vessel Ending,2026-01-25 15:51:49.788613
+157,7,back,Bl 9,Small Intestine,Jade Pillow,2026-01-25 15:51:49.788613
+158,7,back,Bl 10,Small Intestine,Celestial Pillar,2026-01-25 15:51:49.788613
+159,2,general,The 2 heads of the trapezius muscle are like two pillars supporting the head (heaven). BL10 is located on these pillars. Pillars are also a reference to the spinal vertebra in ancient times they were called “Tian Zhu”,Small Intestine,"1.3 cun lateral to GV15, on the lateral sides of the trapezius, levels with the L.B.S.P. (lower border spinal process) of C-1",2026-01-25 15:51:49.788613
+160,7,back,Bl 11,Small Intestine,Great Shuttle,2026-01-25 15:51:49.788613
+161,7,back,Bl 12,Small Intestine,Wind Door,2026-01-25 15:51:49.788613
+162,7,back,Bl 13,Small Intestine,Lung Shu,2026-01-25 15:51:49.788613
+163,7,back,Bl 15,Small Intestine,Heart Shu,2026-01-25 15:51:49.788613
+164,7,back,Bl 16,Small Intestine,GV Shu,2026-01-25 15:51:49.788613
+165,7,back,Bl 17,Small Intestine,Diaphragm and Esophagus Shu,2026-01-25 15:51:49.788613
+166,7,back,Bl 18,Small Intestine,Liver Shu,2026-01-25 15:51:49.788613
+167,7,back,Bl 19,Small Intestine,Gall Bladder Shu,2026-01-25 15:51:49.788613
+168,7,back,Bl 20,Small Intestine,Spleen Shu,2026-01-25 15:51:49.788613
+169,7,back,Bl 21,Small Intestine,Stomach Shu,2026-01-25 15:51:49.788613
+170,7,back,Bl 22,Small Intestine,3 Heater Shu,2026-01-25 15:51:49.788613
+171,7,back,Bl 35,Small Intestine,Meeting of Yang,2026-01-25 15:51:49.788613
+172,7,back,Bl 23,Small Intestine,Kidney Shu,2026-01-25 15:51:49.788613
+173,7,back,Bl 24,Small Intestine,Sea of CHI Shu,2026-01-25 15:51:49.788613
+174,7,back,Bl 25,Small Intestine,Colon Shu,2026-01-25 15:51:49.788613
+175,7,back,Bl 26,Small Intestine,Gate of Yuan Shu,2026-01-25 15:51:49.788613
+176,7,back,Bl 27,Small Intestine,Small Intestine Shu,2026-01-25 15:51:49.788613
+177,7,back,Bl 28,Small Intestine,Bladder Shu,2026-01-25 15:51:49.788613
+178,7,back,Bl 29,Small Intestine,Shu of Sacrum and Central Backbone,2026-01-25 15:51:49.788613
+179,7,back,Bl 30,Small Intestine,White Ring Shu,2026-01-25 15:51:49.788613
+180,7,back,Bl 31,Small Intestine,Upper Bone Hole,2026-01-25 15:51:49.788613
+181,7,back,Bl 36,Small Intestine,Receive and Support,2026-01-25 15:51:49.788613
+182,7,back,Bl 37,Small Intestine,Door of Abundance,2026-01-25 15:51:49.788613
+183,7,back,Bl 38,Small Intestine,Floating Point,2026-01-25 15:51:49.788613
+184,7,back,Bl 39,Small Intestine,Bend Yang,2026-01-25 15:51:49.788613
+185,7,back,Bl 40,Small Intestine,Middle Bend,2026-01-25 15:51:49.788613
+186,7,back,Bl 41,Small Intestine,Attached Branch,2026-01-25 15:51:49.788613
+187,7,back,Bl 42,Small Intestine,Po Entrance,2026-01-25 15:51:49.788613
+188,7,back,Bl 43,Small Intestine,Shu of the Vital Centers,2026-01-25 15:51:49.788613
+189,7,back,Bl 44,Small Intestine,Shen Temple,2026-01-25 15:51:49.788613
+190,7,back,Bl 45,Small Intestine,"a Cry, Sigh, Laugh",2026-01-25 15:51:49.788613
+191,7,back,Bl 46,Small Intestine,Diaphragm Gate,2026-01-25 15:51:49.788613
+192,7,back,Bl 47,Small Intestine,Hun Door,2026-01-25 15:51:49.788613
+193,7,back,Bl 48,Small Intestine,Essence of Yang,2026-01-25 15:51:49.788613
+194,7,back,Bl 49,Small Intestine,House of Ideas,2026-01-25 15:51:49.788613
+195,7,back,Bl 50,Small Intestine,Stomach Granary,2026-01-25 15:51:49.788613
+196,7,back,Bl 51,Small Intestine,Vital Gate,2026-01-25 15:51:49.788613
+197,7,back,Bl 52,Small Intestine,Chamber of  Will,2026-01-25 15:51:49.788613
+198,3,general,Kid 14,Small Intestine,Fourfold Fullness,2026-01-25 15:51:49.788613
+199,7,back,Bl 53,Small Intestine,Huang Envelope,2026-01-25 15:51:49.788613
+200,7,back,Bl 54,Small Intestine,Sequential Limit,2026-01-25 15:51:49.788613
+201,7,back,"BL54 is the last point on the lateral line of the BL meridian before it continues to flow behind the leg. It is the lower border of the sequence, which began at BL41",Small Intestine,"3 cun lateral to the midline of the back, at the height of the 4th sacral foramen",2026-01-25 15:51:49.788613
+202,7,back,Bl 55,Small Intestine,Yang Union,2026-01-25 15:51:49.788613
+203,7,back,Bl 56,Small Intestine,Muscle Support,2026-01-25 15:51:49.788613
+204,7,back,Bl 57,Small Intestine,Mountain Support,2026-01-25 15:51:49.788613
+205,7,back,Bl 58,Small Intestine,Flying Yang,2026-01-25 15:51:49.788613
+206,7,back,BL58 is the Lou point of the BL where the meridian attaches to the KID. From here the CHI disperses from the yang side to the yin side of the leg. This is where yang (BL) is dispersed to yin (KID),Small Intestine,7 cun above BL60 half way between the posterior midline of the leg and the posterior border of the tibia,2026-01-25 15:51:49.788613
+207,7,back,Bl 59,Small Intestine,Yang Instep,2026-01-25 15:51:49.788613
+208,7,back,Bl 60,Small Intestine,Kun Lun Mountains,2026-01-25 15:51:49.788613
+209,3,general,Kid 15,Small Intestine,Central Flow,2026-01-25 15:51:49.788613
+210,7,back,Bl 61,Small Intestine,Subservient Visitor,2026-01-25 15:51:49.788613
+211,7,back,Bl 62,Small Intestine,Extending Vessel,2026-01-25 15:51:49.788613
+212,7,back,Bl 63,Small Intestine,Gold Door,2026-01-25 15:51:49.788613
+213,7,back,Bl 64,Small Intestine,Capital Bone,2026-01-25 15:51:49.788613
+214,7,back,Bl 65,Small Intestine,Restraining Bone,2026-01-25 15:51:49.788613
+215,7,back,Bl 66,Small Intestine,Valley Passage,2026-01-25 15:51:49.788613
+216,5,back,BL66 is located near the tip of the KID meridian. After CHI passes through BL67-KID1 it arrives at the shining valley (KID2). BL66 is located on the other side of the valley. It is the spring point of the BL meridian. This point is likened to a passage through a tunnel helping the CHI flow through to the stream point and eventually to the He – sea point.,Small Intestine,"At the lateral aspect of the foot, in the notch distal and inferior to the 5th metatarsal phylange bone, where the skin color changes",2026-01-25 15:51:49.788613
+217,7,back,Bl 67,Small Intestine,Arrival of Yin,2026-01-25 15:51:49.788613
+218,5,back,BL67 is the final point on the BL meridian (a yang meridian). From here the CHI flows to the KID meridian,Small Intestine,At the lateral aspect of the 5th toe 1 fen proximal and lateral to the corner of the fingernail,2026-01-25 15:51:49.788613
+219,3,general,Kid 1,Small Intestine,Gushing Spring,2026-01-25 15:51:49.788613
+220,2,hand,Pc 8,Small Intestine,Palace Of Toil,2026-01-25 15:51:49.788613
+221,3,general,"KID1 is located at the “earth” portion of the foot from a Chinese cosmological perspective. From this point water flows up like a spring. The first point on the kidney meridian is a bubbling spring for the entire body. Because of its location, this is the point with the strongest connection to earth, where the body pulls/nurses Yin",Small Intestine,"In the depression formed at the sole of the foot when it is in plantar flexion, 1/3rd of the way from the base of the 2nd toe to the tip of the heel, between the 2nd and 3rd metatarsal bones, proximal to the metatarsal phalanx bones.",2026-01-25 15:51:49.788613
+222,3,general,Kid 2,Small Intestine,Blazing Valley,2026-01-25 15:51:49.788613
+223,3,general,Kid 3,Small Intestine,Great Stream,2026-01-25 15:51:49.788613
+224,3,general,KID3 is found in the depression that is likened to a valley that gathers water from the mountains. From here the water continues to flow until a river is formed which eventually flows to the sea.,Small Intestine,LOCATION,2026-01-25 15:51:49.788613
+225,3,general,Kid 4,Small Intestine,Water Spring,2026-01-25 15:51:49.788613
+226,3,general,Kid 5,Small Intestine,Water Spring,2026-01-25 15:51:49.788613
+227,3,general,KID5 is the Xi – cleft point on this meridian. It is located in a crevice where the CHI/water of the kidney is gathered.,Small Intestine,1 cun inferior to KID3 in the slight depression anterior and superior to the medial aspect of the bump of the achilles,2026-01-25 15:51:49.788613
+228,2,general,TH 13,Small Intestine,Reunion of Muscles,2026-01-25 15:51:49.788613
+229,3,general,Kid 6,Small Intestine,Shining Sea,2026-01-25 15:51:49.788613
+230,3,general,Kid 7,Small Intestine,Returning Current,2026-01-25 15:51:49.788613
+231,3,general,Kid 8,Small Intestine,Communication Belief,2026-01-25 15:51:49.788613
+232,3,general,Kid 9,Small Intestine,Guest House,2026-01-25 15:51:49.788613
+233,3,general,Kid 10,Small Intestine,Valley of Yin,2026-01-25 15:51:49.788613
+234,3,general,Kid 11,Small Intestine,Horizontal Bone,2026-01-25 15:51:49.788613
+235,3,general,Kid 12,Small Intestine,Great Brilliance,2026-01-25 15:51:49.788613
+236,3,general,"KID12 directs the influence of the Chong, which crosses through the KID meridian at this point",Small Intestine,LOCATION,2026-01-25 15:51:49.788613
+237,3,general,Kid 13,Small Intestine,Orifice of CHI,2026-01-25 15:51:49.788613
+238,3,general,Kid 16,Small Intestine,Diaphragm Transport,2026-01-25 15:51:49.788613
+239,3,general,Kid 17,Small Intestine,merchant of tunes,2026-01-25 15:51:49.788613
+240,3,general,Kid 18,Small Intestine,jade gate,2026-01-25 15:51:49.788613
+241,3,general,Kid 19,Small Intestine,yin capital,2026-01-25 15:51:49.788613
+242,3,general,Kid 20,Small Intestine,bottom of the valley,2026-01-25 15:51:49.788613
+243,3,general,Kid 21,Small Intestine,Secluded Gate,2026-01-25 15:51:49.788613
+244,3,general,Kid 22,Small Intestine,Walking Promenade,2026-01-25 15:51:49.788613
+245,3,general,Kid 23,Small Intestine,spirit seal,2026-01-25 15:51:49.788613
+246,3,general,Kid 24,Small Intestine,Spirit Burial Ground,2026-01-25 15:51:49.788613
+247,3,general,Kid 25,Small Intestine,spirit shelter,2026-01-25 15:51:49.788613
+248,3,general,Kid 26,Small Intestine,smooth center,2026-01-25 15:51:49.788613
+249,3,general,Kid 27,Small Intestine,Shu of the Palace,2026-01-25 15:51:49.788613
+250,2,hand,Pc 1,Small Intestine,Celestial Pool,2026-01-25 15:51:49.788613
+251,2,hand,Pc 2,Small Intestine,celestial spring,2026-01-25 15:51:49.788613
+252,2,hand,Pc 3,Small Intestine,crooked marsh,2026-01-25 15:51:49.788613
+253,2,hand,Pc 4,Small Intestine,narrow gate,2026-01-25 15:51:49.788613
+254,2,hand,Pc 5,Small Intestine,intermediary courier,2026-01-25 15:51:49.788613
+255,2,hand,Pc 6,Small Intestine,Inner Gate,2026-01-25 15:51:49.788613
+256,2,hand,Pc 7,Small Intestine,"Grand Mound, Big Tomb",2026-01-25 15:51:49.788613
+257,2,general,TH 14,Small Intestine,Shoulder Bone Hole,2026-01-25 15:51:49.788613
+258,2,hand,Pc 9,Small Intestine,Middle Rushing,2026-01-25 15:51:49.788613
+259,2,general,TH1,Small Intestine,Passage Hub,2026-01-25 15:51:49.788613
+260,2,general,"TH1, HT9 and PC9 all have the character Chong in their names to express the flowing, bursting motion of CHI that they contain",Small Intestine,"At the ulnar aspect of the 4th finger, 1 fen proximal to the corner of the nail",2026-01-25 15:51:49.788613
+261,2,general,TH 2,Small Intestine,door of fluids,2026-01-25 15:51:49.788613
+262,2,general,TH 3,Small Intestine,Central Island,2026-01-25 15:51:49.788613
+263,2,general,TH 4,Small Intestine,Pool of Yang,2026-01-25 15:51:49.788613
+264,2,general,TH 15,Small Intestine,Celestial Bone Hole,2026-01-25 15:51:49.788613
+265,1,head,GB 31,Small Intestine,City of Wind,2026-01-25 15:51:49.788613
+266,2,general,TH 5,Small Intestine,Outer Gate,2026-01-25 15:51:49.788613
+267,2,general,TH 6,Small Intestine,Branch Ditch,2026-01-25 15:51:49.788613
+268,2,general,TH 7,Small Intestine,Reunion of Ancestors,2026-01-25 15:51:49.788613
+269,2,general,TH 8,Small Intestine,Lou of the 3 Yang,2026-01-25 15:51:49.788613
+270,2,general,TH 9,Small Intestine,4 gutters/rivers,2026-01-25 15:51:49.788613
+271,2,general,TH 10,Small Intestine,Celestial Well,2026-01-25 15:51:49.788613
+272,2,general,TH 11,Small Intestine,pure cold abyss,2026-01-25 15:51:49.788613
+273,2,general,"TH10 – TH14, 1 cun above TH10",Small Intestine,Diagonal in the direction of the meridian 1 cun,2026-01-25 15:51:49.788613
+274,2,general,TH 12,Small Intestine,melting river,2026-01-25 15:51:49.788613
+275,2,general,TH 16,Small Intestine,Window to the Sky,2026-01-25 15:51:49.788613
+276,2,general,the 3 heaters,Small Intestine,"7. Balances body weight, promotes weight loss",2026-01-25 15:51:49.788613
+277,2,general,TH 17,Small Intestine,Wind Shield,2026-01-25 15:51:49.788613
+278,2,general,TH 18,Small Intestine,Nourishment of the Vessel,2026-01-25 15:51:49.788613
+279,2,general,TH 19,Small Intestine,head respiration,2026-01-25 15:51:49.788613
+280,2,general,TH 20,Small Intestine,Car Angle,2026-01-25 15:51:49.788613
+281,2,general,TH 21,Small Intestine,Door to the Ear,2026-01-25 15:51:49.788613
+282,2,general,TH 22,Small Intestine,Harmony Bone,2026-01-25 15:51:49.788613
+283,2,general,TH22 connects TH to SI and GB. The ear bones working in harmony form the shape of a kidney. The kidneys open up to the ears. When the kidneys are harmonized the ears can hear the 5 tones,Small Intestine,"Level with the root of the ear, anterior and superior to TH21",2026-01-25 15:51:49.788613
+284,2,general,TH 23,Small Intestine,Bamboo Hollow,2026-01-25 15:51:49.788613
+285,1,head,GB 32,Small Intestine,Central River,2026-01-25 15:51:49.788613
+286,1,head,GB1,Small Intestine,Orifice of the Pupil,2026-01-25 15:51:49.788613
+287,1,head,GB2,Small Intestine,Meeting of Hearing,2026-01-25 15:51:49.788613
+288,1,head,GB3,Small Intestine,Guest and Host Upper Joint,2026-01-25 15:51:49.788613
+289,1,head,GB 4,Small Intestine,Forehead Fullness,2026-01-25 15:51:49.788613
+290,1,head,GB 5,Small Intestine,Suspended Skull,2026-01-25 15:51:49.788613
+291,1,head,GB 6,Small Intestine,Suspended Li,2026-01-25 15:51:49.788613
+292,1,head,GB 7,Small Intestine,Twisted Hair on the Temples,2026-01-25 15:51:49.788613
+293,1,head,GB 8,Small Intestine,leading to the valley,2026-01-25 15:51:49.788613
+294,1,head,GB 9,Small Intestine,Celestial Surge,2026-01-25 15:51:49.788613
+295,2,hand,Liv 12,Liver,Rapid Pulse,2026-01-25 15:51:49.788613
+296,1,head,GB 10,Small Intestine,Floating White,2026-01-25 15:51:49.788613
+297,1,head,GB 11,Small Intestine,Head Cavity of Yin,2026-01-25 15:51:49.788613
+298,1,head,GB 12,Small Intestine,Ear Bone,2026-01-25 15:51:49.788613
+299,1,head,GB 13,Small Intestine,Root of Shen,2026-01-25 15:51:49.788613
+300,1,head,GB 14,Small Intestine,White Yang,2026-01-25 15:51:49.788613
+301,1,head,GB 15,Small Intestine,Head Supervising Tears,2026-01-25 15:51:49.788613
+302,1,head,GB 16,Small Intestine,Window of the Eye,2026-01-25 15:51:49.788613
+303,1,head,GB 17,Small Intestine,principle ying,2026-01-25 15:51:49.788613
+304,1,head,GB 18,Small Intestine,containing the spirit,2026-01-25 15:51:49.788613
+305,1,head,GB 19,Small Intestine,Brain Hollow,2026-01-25 15:51:49.788613
+306,1,head,GB 20,Small Intestine,Wind Pool,2026-01-25 15:51:49.788613
+307,1,head,GB 21,Small Intestine,Shoulder Well,2026-01-25 15:51:49.788613
+308,1,head,GB 22,Small Intestine,Liquid Source/Armpit Abyss,2026-01-25 15:51:49.788613
+309,1,head,GB 23,Small Intestine,Muscular Seat,2026-01-25 15:51:49.788613
+310,1,head,GB 24,Small Intestine,Sun and Moon,2026-01-25 15:51:49.788613
+311,1,head,GB 25,Small Intestine,Door of the Capital,2026-01-25 15:51:49.788613
+312,1,head,GB 26,Small Intestine,Girdle Meridian,2026-01-25 15:51:49.788613
+313,1,head,GB 27,Small Intestine,Fifth Pivot,2026-01-25 15:51:49.788613
+314,1,head,GB 28,Small Intestine,Linking Path,2026-01-25 15:51:49.788613
+315,1,head,GB 29,Small Intestine,Sitting Bone,2026-01-25 15:51:49.788613
+316,1,head,GB 30,Small Intestine,Jumping Circle,2026-01-25 15:51:49.788613
+317,1,head,GB 33,Small Intestine,Knee Yang Gate,2026-01-25 15:51:49.788613
+318,1,head,GB 34,Small Intestine,Fountain of Yang,2026-01-25 15:51:49.788613
+319,1,head,GB 35,Small Intestine,Yang Crossing,2026-01-25 15:51:49.788613
+320,1,head,GB 36,Small Intestine,External Region,2026-01-25 15:51:49.788613
+321,1,head,GB 37,Small Intestine,Bright Light,2026-01-25 15:51:49.788613
+322,1,head,GB 38,Small Intestine,Yang Support,2026-01-25 15:51:49.788613
+323,1,head,GB 39,Small Intestine,Suspended Bell,2026-01-25 15:51:49.788613
+324,1,head,GB 40,Small Intestine,Eminent Region,2026-01-25 15:51:49.788613
+325,1,head,GB 41,Small Intestine,Foot Supervising Tears,2026-01-25 15:51:49.788613
+326,1,head,GB 42,Small Intestine,5 Terrestrial Meetings,2026-01-25 15:51:49.788613
+327,1,head,GB 43,Small Intestine,Harmonious Stream,2026-01-25 15:51:49.788613
+328,1,head,GB 44,Small Intestine,Foot Cavity of Yin,2026-01-25 15:51:49.788613
+329,2,hand,Liv 1,Liver,Large Hill,2026-01-25 15:51:49.788613
+330,2,hand,Liv 2,Liver,Moving Between,2026-01-25 15:51:49.788613
+331,1,head,GV 23,Liver,Upper Star,2026-01-25 15:51:49.788613
+332,2,hand,Liv 3,Liver,Supreme Rushing,2026-01-25 15:51:49.788613
+333,2,hand,Liv 4,Liver,Middle Barrier,2026-01-25 15:51:49.788613
+334,2,hand,Liv 5,Liver,Calf Gutter/Drain,2026-01-25 15:51:49.788613
+335,2,hand,Liv 6,Liver,Central Metropolis,2026-01-25 15:51:49.788613
+336,2,hand,Liv 7,Liver,Knee Joint/Hinge,2026-01-25 15:51:49.788613
+337,2,hand,Liv 8,Liver,Spring at the Bend,2026-01-25 15:51:49.788613
+338,2,hand,Liv 9,Liver,Yin Envelope,2026-01-25 15:51:49.788613
+339,2,hand,Liv 10,Liver,LI Foot 5 Li,2026-01-25 15:51:49.788613
+340,2,hand,Liv 11,Liver,Yin Passage,2026-01-25 15:51:49.788613
+341,2,hand,Liv 13,Liver,Gate of Order,2026-01-25 15:51:49.788613
+342,2,hand,Liv 14,Liver,Gate of Hope,2026-01-25 15:51:49.788613
+343,6,abdomen,CV 1,Liver,Meeting of Yin,2026-01-25 15:51:49.788613
+344,6,abdomen,CV 2,Liver,crooked bone,2026-01-25 15:51:49.788613
+345,6,abdomen,CV 3,Liver,center of 2 poles,2026-01-25 15:51:49.788613
+346,6,abdomen,CV 4,Liver,Gate of Yuan,2026-01-25 15:51:49.788613
+347,6,abdomen,CV4 is the passage of Yuan CHI.” The critical meeting of original yang and original yin take place here. It is the storage place of Yuan CHI.,Liver,On the midline of the abdomen 2 cun above CV2,2026-01-25 15:51:49.788613
+348,6,abdomen,CV 5,Liver,stone gate,2026-01-25 15:51:49.788613
+349,1,head,GV 24,Liver,Spirit Palace,2026-01-25 15:51:49.788613
+350,6,abdomen,CV 6,Liver,Sea of Chi,2026-01-25 15:51:49.788613
+351,6,abdomen,CV 7,Liver,yin crossing,2026-01-25 15:51:49.788613
+352,6,abdomen,"CV7 is a yin cross roads. Here KID, CV and Chong meet up. It is located on the yin aspect of the body",Liver,On the abdominal midline 4 cun above CV2,2026-01-25 15:51:49.788613
+353,6,abdomen,CV 8,Liver,Palace of the CHI,2026-01-25 15:51:49.788613
+354,6,abdomen,CV 9,Liver,water divide,2026-01-25 15:51:49.788613
+355,6,abdomen,CV 10,Liver,Lower Stomach,2026-01-25 15:51:49.788613
+356,6,abdomen,CV 11,Liver,Established Li,2026-01-25 15:51:49.788613
+357,6,abdomen,CV 12,Liver,Middle Stomach,2026-01-25 15:51:49.788613
+358,6,abdomen,CV 13,Liver,Upper Stomach,2026-01-25 15:51:49.788613
+359,6,abdomen,CV 14,Liver,Great Gate,2026-01-25 15:51:49.788613
+360,6,abdomen,CV 15,Liver,Dove’s Tail,2026-01-25 15:51:49.788613
+361,6,abdomen,CV 16,Liver,central courtyard,2026-01-25 15:51:49.788613
+362,6,abdomen,CV 17,Liver,Chest Center,2026-01-25 15:51:49.788613
+363,6,abdomen,CV 18,Liver,Jade Palace,2026-01-25 15:51:49.788613
+364,6,abdomen,CV 19,Liver,Purple Palace,2026-01-25 15:51:49.788613
+365,6,abdomen,CV 20,Liver,Magnificent Canopy,2026-01-25 15:51:49.788613
+366,6,abdomen,CV 21,Liver,Jade Pivot,2026-01-25 15:51:49.788613
+367,6,abdomen,CV  22,Liver,Celestial Chimney,2026-01-25 15:51:49.788613
+368,6,abdomen,CV 23,Liver,Spring Region,2026-01-25 15:51:49.788613
+369,6,abdomen,CV 24,Liver,Containing Fluids,2026-01-25 15:51:49.788613
+370,1,head,GV 25,Liver,Pure Bone Hole,2026-01-25 15:51:49.788613
+371,1,head,GV 1,Liver,Long Strength,2026-01-25 15:51:49.788613
+372,1,head,GV 2,Liver,Lumbar Shu,2026-01-25 15:51:49.788613
+373,1,head,GV 3,Liver,Lumbar Yang Gate,2026-01-25 15:51:49.788613
+374,1,head,GV 4,Liver,Gate of Life,2026-01-25 15:51:49.788613
+375,1,head,GV 5,Liver,Suspended Pivot,2026-01-25 15:51:49.788613
+376,1,head,GV 6,Liver,Spinal Center,2026-01-25 15:51:49.788613
+377,1,head,GV 7,Liver,Central Pivot,2026-01-25 15:51:49.788613
+378,1,head,"GV7 is the point of rotation at the center of the spine. GV 5,6, and 7 are similar in their names and functions",Liver,"On the back midline, at the lower border of T10",2026-01-25 15:51:49.788613
+379,1,head,GV 8,Liver,Contracted Muscle,2026-01-25 15:51:49.788613
+380,1,head,GV 9,Liver,Arrival of Yang,2026-01-25 15:51:49.788613
+381,1,head,GV 10,Liver,Soul Tower,2026-01-25 15:51:49.788613
+382,1,head,GV 11,Liver,Shen Way,2026-01-25 15:51:49.788613
+383,3,leg,ST4,Bladder,BL1,2026-01-25 15:51:49.788613
+384,3,general,KID18,Bladder,KID19,2026-01-25 15:51:49.788613
+385,1,head,GV 12,Liver,Body Pillar,2026-01-25 15:51:49.788613
+386,1,head,GV 13,Liver,Kiln Way,2026-01-25 15:51:49.788613
+387,1,head,GV 14,Liver,Big Hammer,2026-01-25 15:51:49.788613
+388,1,head,GV 15,Liver,Mutes Door,2026-01-25 15:51:49.788613
+389,1,head,GV15 is connected to the root of the tongue. It used to treat speech/voice disorders,Liver,"On the midline of the neck, between C1 and C2, 0.5 cun inferior to GV16, level with BL10",2026-01-25 15:51:49.788613
+390,1,head,GV 16,Liver,Wind Palace,2026-01-25 15:51:49.788613
+391,1,head,GV 17,Liver,Brain Window,2026-01-25 15:51:49.788613
+392,1,head,GV 18,Liver,Strong Space,2026-01-25 15:51:49.788613
+393,1,head,GV 19,Liver,Behind the Vertex,2026-01-25 15:51:49.788613
+394,1,head,GV 20,Liver,100 Meeting,2026-01-25 15:51:49.788613
+395,1,head,GV 21,Liver,Before the Vertex,2026-01-25 15:51:49.788613
+396,1,head,GV 22,Liver,Frontal Meeting,2026-01-25 15:51:49.788613
+397,4,arm,Lu11,Bladder,Wood,2026-01-25 15:51:49.788613
+398,8,general,Co3,Bladder,Earth,2026-01-25 15:51:49.788613
+399,3,leg,St36,Bladder,Fire,2026-01-25 15:51:49.788613
+400,3,leg,Sp2,Bladder,Fire,2026-01-25 15:51:49.788613
+401,2,hand,Ht8,Bladder,Earth,2026-01-25 15:51:49.788613
+402,2,general,Si8,Bladder,Metal,2026-01-25 15:51:49.788613
+403,5,back,Bl67,Bladder,Metal,2026-01-25 15:51:49.788613
+404,3,general,Kid7,Bladder,Earth,2026-01-25 15:51:49.788613
+405,1,head,GV 26,Liver,Human Center/Water Passage,2026-01-25 15:51:49.788613
+406,1,head,GV 27,Liver,Mouth Extremity/Exchange,2026-01-25 15:51:49.788613
+407,1,head,GV 28,Liver,Gum Crossing,2026-01-25 15:51:49.788613
+408,8,general,"CO4 is contraindicated throughout pregnancy. This is due to its strong yang quality which can cause contractions. For this same reason, it is also a very effective point during labor.",Liver,Ren6 is contraindicated because of its location,2026-01-25 15:51:49.788613
+409,7,back,"BL23 and DU4 are both contraindicated because of their locations. Also, DU4 has a strong energetic effect on the kidneys and BL23 has a strong connection with the DAI MAI, both systems should be used cautiously during pregnancy.",Liver,A pregnant woman who is very weak should not be needled.,2026-01-25 15:51:49.788613
+410,4,arm,Lu9,Bladder,Lu8,2026-01-25 15:51:49.788613
+411,8,general,Co11,Bladder,Co1,2026-01-25 15:51:49.788613
+412,3,leg,St41,Bladder,St36,2026-01-25 15:51:49.788613
+413,3,leg,Sp2,Bladder,Sp3,2026-01-25 15:51:49.788613
+414,2,hand,Ht9,Bladder,Ht8,2026-01-25 15:51:49.788613
+415,2,general,Si3,Bladder,Si5,2026-01-25 15:51:49.788613
+416,5,back,Bl67,Bladder,Bl66,2026-01-25 15:51:49.788613
+417,3,general,Kid7,Bladder,Kid10,2026-01-25 15:51:49.788613
+418,2,hand,Pc9,Bladder,Pc8,2026-01-25 15:51:49.788613
+419,2,general,Th3,Bladder,Th6,2026-01-25 15:51:49.788613
+420,1,head,Gb43,Bladder,Gb41,2026-01-25 15:51:49.788613
+421,2,hand,Liv8,Bladder,Liv1,2026-01-25 15:51:49.788613
+422,2,general,The 8 extraordinary meridians are opened by using both a “master” and “couple” point. To allow for a good treatment one must follow a few basic rules,Bladder,Master points are needled on the left side on men and on the right for women.,2026-01-25 15:51:49.788613
+423,8,general,DU 1-28,Bladder,REN 1,2026-01-25 15:51:49.788613
+424,1,head,GB26,Bladder,KID2 Beginning Point,2026-01-25 15:51:49.788613
+425,5,back,BL63 Xi - Cleft,Bladder,ST30,2026-01-25 15:51:49.788613
+426,1,head,GB27,Bladder,KID6,2026-01-25 15:51:49.788613
+427,2,general,SI10,Bladder,SP4 regulates,2026-01-25 15:51:49.788613
+428,1,head,GB28,Bladder,KID8 Xi- Cleft,2026-01-25 15:51:49.788613
+429,2,general,TH15,Bladder,SP10 influences,2026-01-25 15:51:49.788613
+430,2,hand,LIV13,Bladder,ST19,2026-01-25 15:51:49.788613
+431,1,head,GB21,Bladder,KID11 Start of Chong,2026-01-25 15:51:49.788613
+432,3,leg,SP16,Bladder,SI8,2026-01-25 15:51:49.788613
+433,2,general,SI10,Bladder,LIV14,2026-01-25 15:51:49.788613
+434,7,back,BL1,Bladder,CO15,2026-01-25 15:51:49.788613
+435,3,general,KID13,Bladder,GB35,2026-01-25 15:51:49.788613
+436,8,general,CO16,Bladder,REN23,2026-01-25 15:51:49.788613
+437,8,general,DU15,Bladder,KID15,2026-01-25 15:51:49.788613
+438,8,general,DU16,Bladder,KID16,2026-01-25 15:51:49.788613
+439,3,general,KID20,Bladder,KID2-27 influence,2026-01-25 15:51:49.788613
+440,3,leg,ST34,Bladder,SP-8,2026-01-25 15:51:49.788613
+441,7,back,BL11 – HUI meeting of the bones.,Bladder,BL13 – SHU meeting point of the lungs,2026-01-25 15:51:49.788613
+442,7,back,BL14 – SHU point of the pericardium,Bladder,BL15 – SHU point of the heart,2026-01-25 15:51:49.788613
+443,7,back,BL16 – SHU point of the DU Mai,Bladder,BL17 – HUI meeting point of the blood and SHU point of the diaphragm,2026-01-25 15:51:49.788613
+444,7,back,BL18 – SHU point of the liver,Bladder,BL19 – SHU point of the gall bladder,2026-01-25 15:51:49.788613
+445,7,back,BL20 – SHU point of the spleen,Bladder,BL21 – Shu point of the stomach,2026-01-25 15:51:49.788613
+446,7,back,BL22 – Shu point of the triple burner,Bladder,BL23 – SHU point of the kidneys,2026-01-25 15:51:49.788613
+447,7,back,BL24 – SHU point of the sea of CHI,Bladder,BL25 – SHU point of the large intestine,2026-01-25 15:51:49.788613
+448,7,back,BL26 – SHU point of the gate of vitality,Bladder,BL27 – SHU point of the small intestine,2026-01-25 15:51:49.788613
+449,7,back,BL28 – SHU point of the urinary bladder,Bladder,BL29 – SHU point of the sacrum,2026-01-25 15:51:49.788613
+450,7,back,BL30 – SHU point of the anus,Bladder,Ba Hui Meeting Points,2026-01-25 15:51:49.788613
+451,2,hand,LIV13,Bladder,REN12,2026-01-25 15:51:49.788613
+452,6,general,REN17,Bladder,BL17,2026-01-25 15:51:49.788613
+453,1,head,GB34,Bladder,LU9,2026-01-25 15:51:49.788613
+454,7,back,BL11,Bladder,GB39,2026-01-25 15:51:49.788613
+455,6,general,Ren 3 Ren 4,Bladder,SI18 ST12,2026-01-25 15:51:49.788613
+456,6,general,Ren17 GB22 GB23,Bladder,GB13,2026-01-25 15:51:49.788613
+457,6,general,REN 2,Bladder,"These points are important in understanding the physiology of the Tendo Muscular Meridians. The TMM, via these points, can stop a pathogen which has made its way into the body from further penetrating. We can tonify the defensive CHI at these areas using the TMM meeting points.",2026-01-25 15:51:49.788613
+458,7,back,BL40 KID10,Bladder,BL10,2026-01-25 15:51:49.788613
+459,2,general,SI8 HT1,Bladder,BL1,2026-01-25 15:51:49.788613
+460,2,general,TH10 PC1,Bladder,TH16,2026-01-25 15:51:49.788613
+461,3,leg,ST34 SP10,Bladder,BL1,2026-01-25 15:51:49.788613
+462,8,general,CO15,Bladder,CO18,2026-01-25 15:51:49.788613
+463,1,head,GB30 LIV5,Bladder,GB1,2026-01-25 15:51:49.788613
+464,3,general,Kid12,Bladder,St25,2026-01-25 15:51:49.788613
+465,3,leg,St27,Bladder,Liv13,2026-01-25 15:51:49.788613
+466,2,hand,Liv14,Bladder,Kid16,2026-01-25 15:51:49.788613
